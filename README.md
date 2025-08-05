@@ -6,7 +6,8 @@
     </head>
     </body>
     <h1><center>Muthayammal Engineering College</center></h1>
-    <h3>Department of Information Technology</h3>
+    <center><img src="mecc.jpeg ";/></center>
+    <h3><center>Department of Information Technology</center></h3>
     <hr>
     <h2><center>Student portfolio</center></h2>
    <p><center><b> Kaviya Selvam</b></center><br> 
